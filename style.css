@@ -1,0 +1,21 @@
+
+.feed{
+	margin-left: 100px;
+	margin-right:100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border: 1px solid green;
+	min-height: 1000px;
+}
+.feed h3{
+	border : 5px dashed blue;
+	padding: 20px;
+}
+.page-title{
+	margin-left: 100px;
+}
+.new-meows{
+	border : 5px dashed blue;
+	padding: 20px;
+	width: : 100%;
+}
